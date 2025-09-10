@@ -1,0 +1,7 @@
+torch
+torchvision
+tensorboardX
+easydict
+pandas
+matplotlib
+Pillow
